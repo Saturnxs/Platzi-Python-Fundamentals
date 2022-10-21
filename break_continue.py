@@ -11,6 +11,7 @@ def run():
     #         break
     
     
+    # Asking for a text and printing it until it finds an "o"
     texto = input("Escribe un texto: ").lower()
     for i in texto:
         if (i == "o"):
