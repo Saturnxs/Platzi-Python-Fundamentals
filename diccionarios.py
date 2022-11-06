@@ -1,6 +1,3 @@
-from unittest import main
-
-
 def run():
     # Creating a dictionary.
     mi_diccionario ={
